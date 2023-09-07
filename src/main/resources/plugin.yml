@@ -1,0 +1,4 @@
+name: Slon
+version: '${project.version}'
+main: feyli.slon.Slon
+api-version: 1.19
